@@ -1,0 +1,2 @@
+Total Scenarios,Attack Scenarios,True Positive,False Positive,False Negative,Detection Rate (%),Precision (%),Recall (%),F1 Score (%)
+100,83,83,0,0,100.0,100.0,100.0,100.0

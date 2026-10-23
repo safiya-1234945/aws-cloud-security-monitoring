@@ -1,0 +1,5 @@
+Attack Type,TTD_milliseconds
+CloudTrail Tampering,19.315
+Credential Escalation,0.0
+IAM Privilege Escalation,33.61309090909091
+Role Abuse,21.413874999999997

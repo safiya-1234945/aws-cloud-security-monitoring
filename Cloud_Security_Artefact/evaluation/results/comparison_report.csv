@@ -1,0 +1,3 @@
+Framework,True Positive,False Positive,False Negative,Precision,Recall,F1 Score
+Static Baseline,43,57,0,43.0,100.0,60.14
+Proposed Correlation Framework,35,0,8,100.0,81.4,89.74

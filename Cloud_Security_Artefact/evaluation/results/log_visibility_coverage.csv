@@ -1,0 +1,4 @@
+Attack Chain,Required Events,Captured Events,Coverage (%)
+IAM Privilege Escalation,3,3,100.0
+Role Abuse,2,2,100.0
+CloudTrail Tampering,2,2,100.0

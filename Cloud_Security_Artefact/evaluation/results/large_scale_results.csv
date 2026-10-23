@@ -1,0 +1,7 @@
+Scenario Size,Framework,True Positive,False Positive,False Negative,Precision,Recall,F1 Score
+100,Static Baseline,52,48,0,52.0,100.0,68.42
+100,Proposed Correlation Framework,38,0,14,100.0,73.08,84.44
+500,Static Baseline,259,241,0,51.8,100.0,68.25
+500,Proposed Correlation Framework,180,0,79,100.0,69.5,82.0
+1000,Static Baseline,483,517,0,48.3,100.0,65.14
+1000,Proposed Correlation Framework,356,0,127,100.0,73.71,84.86
